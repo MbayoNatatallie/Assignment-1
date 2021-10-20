@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-import java.util.Random;
+import java.util.*; // Referenced two classes from the java.util package. The Scanner and Random classes
 
 public class User {
 
