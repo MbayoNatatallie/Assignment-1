@@ -16,7 +16,7 @@ public class User {
        // Asks user for their first name
        System.out.println("Enter your Firstname: "); 
 
-       // To collect and store firstname of the user's input
+       // To collect and store firstname of the user's input on the line
        firstName = userInput.nextLine();
 
        System.out.println("You entered: " + firstName); 
