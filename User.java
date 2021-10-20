@@ -1,4 +1,4 @@
-import java.util.*; // Referenced two classes from the java.util package. The Scanner and Random classes
+import java.util.*; // * notation to reference the scanner and random classes since they are in the same package
 
 public class User {
 
