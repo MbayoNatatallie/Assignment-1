@@ -47,9 +47,9 @@ public class User {
 
         Random rand = new Random(); // To creates random numbers from 10 to 99
 
-        int num1 = 10;
+        int num1 = 9;
 
-        num1 = rand.nextInt(89) + 10;
+        num1 = rand.nextInt(90) + 9;
         System.out.println("From 10 to 99: " + num1);
         // followed by a random number in the range 10 to 99
 
